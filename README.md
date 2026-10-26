@@ -2,7 +2,6 @@
 
 > **Recommendation: keep the gate at level 30.** There is a ~99.9% probability that moving it to level 40 lowers 7-day retention, by about 0.8 percentage points (−4.3% relative, 95% credible interval −6.9% to −1.7%). Keeping level 30 carries essentially zero expected loss.
 
-<!-- After the first push, replace USER/REPO with the repository path -->
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xzhou-C/Cookie_Cats_Bayesian_AB/blob/main/code/Cookie_Cat.ipynb)
 
 ## Introduction
