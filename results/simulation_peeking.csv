@@ -1,0 +1,4 @@
+scenario,reject: one look at fixed n,"reject: peek every 1k, stop at p<0.05"
+A/A (no difference),0.0545,0.285
+B is 0.5pp worse,0.2755,0.55825
+B is 1pp worse (like our data),0.79125,0.928

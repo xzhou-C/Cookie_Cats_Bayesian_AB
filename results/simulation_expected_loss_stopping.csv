@@ -1,0 +1,13 @@
+epsilon,scenario,avg players/arm at stop,picked worse arm,avg regret (pp)
+0.10 pp,A/A (no difference),4747.0,0.0,0.0
+0.10 pp,B is 0.5pp worse,4231.0,0.24275,0.12137500000000011
+0.10 pp,B is 1pp worse (like our data),3146.5,0.0935,0.09350000000000008
+0.05 pp,A/A (no difference),10015.5,0.0,0.0
+0.05 pp,B is 0.5pp worse,7945.0,0.16125,0.08062500000000007
+0.05 pp,B is 1pp worse (like our data),4743.5,0.048,0.04800000000000004
+0.02 pp,A/A (no difference),18025.75,0.0,0.0
+0.02 pp,B is 0.5pp worse,13553.0,0.107,0.05350000000000004
+0.02 pp,B is 1pp worse (like our data),7305.25,0.01775,0.017750000000000016
+0.01 pp,A/A (no difference),22150.75,0.0,0.0
+0.01 pp,B is 0.5pp worse,17333.25,0.0855,0.04275000000000004
+0.01 pp,B is 1pp worse (like our data),9480.5,0.00675,0.006750000000000005
